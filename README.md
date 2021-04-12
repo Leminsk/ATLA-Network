@@ -1,16 +1,23 @@
 # ATLA-Network
-A study of character networks induced from the transcripts of the series Avatar: The Last Airbender.
+A study of character networks induced from the transcripts of the series Avatar: The Last Airbender.  
 The main file is the atla_analyzer.py. You *should* only have to run that one.
 Make sure all the files are in the same folder/directory.
 
 
 If you came from the Old Bit Waves video, hello there o/
 
+## Main Technical Requirements
+
+Python 3 (recommended at least version 3.5)
+networkx - graphs and functions related to graphs (e.g. Degree Centrality)
+matplotlib - statistics graphs
+numpy - number crunching
+beautifulsoup - html reader
 
 ## Questions?
 
 Q: "Your code doesn't work on my machine. How can I fix that?"  
-A: First make sure you're running it with Python 3. The files here are not a 1-1 copy of what I have on my local machine, so I'm still working on what exactly I need to put here to get this thing going.
+A: First make sure you've got everything from the previous section properly installed. The files here are not a 1-1 copy of what I have on my local machine, so I'm still working on what exactly I need to put here to get this thing going.
 
 Q: "Can I use your code on some project that I'm working on?"  
 A: Yeah no problem. Just please credit me somewhere along the way :)
