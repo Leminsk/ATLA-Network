@@ -19,7 +19,7 @@ Q: "Will you improve your code? Will you implement X feature to better analyze/c
 A: The answer is a 'maybe' at best. If one day I get some inspiration and suddenly start working on it again then yes I'll improve it bit by bit.
 
 Q: "Why did this thing into a video?"  
-A: I initially wanted to post it somewhere online, maybe on Reddit. But I felt that I could express my ideas better through a video format.
+A: I initially wanted to post it somewhere online, maybe on Reddit. But I felt that I could express my ideas better through a video.
 
 Q: "Why did you take *so long* to make the video?"  
 A: Simple. I'm dumb and inexperienced.
