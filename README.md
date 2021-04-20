@@ -8,11 +8,11 @@ If you came from the Old Bit Waves video, hello there o/
 
 ## Main Technical Requirements
 
-Python 3 (recommended at least version 3.5)  
-networkx - graphs and functions related to graphs (e.g. Degree Centrality)  
-matplotlib - statistics graphs  
-numpy - number crunching  
-beautifulsoup - html reader
+- `Python 3`:recommended at least version 3.5
+- `networkx`: graphs and functions related to graphs (e.g. Degree Centrality)  
+- `matplotlib`: statistics graphs  
+- `numpy`: number crunching  
+- `beautifulsoup`: html reader/parser
 
 ## Questions?
 
